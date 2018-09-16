@@ -12,8 +12,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+string c="  ";
+a=c;
+修改a="   ";c不变
+
+打印a和c的地址如下：
+system.out.println(a.hashCode());
+system.out.println(c.hashCode());
+
 ## Header 2
-### Header 4
+
+
+### Header 3
 
 - Bulleted
 - List
