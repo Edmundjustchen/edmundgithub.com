@@ -22,7 +22,8 @@ system.out.println(a.hashCode());
 system.out.println(c.hashCode());
 
 ## Header 2
-
+public class music{
+ public static void main(String[] args){
 for(i=99;i>=2;i--)
 {
 system.out.println(i);
@@ -50,7 +51,7 @@ system.out.println(i);
 system.out.println("-1 bottle of beer one the wall.");
 
 system.out.println();
-system.out.println("No more bottles on the wall");
+system.out.println("No more bottles on the wall");}}
 
 
 
