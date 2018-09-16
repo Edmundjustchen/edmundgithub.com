@@ -38,16 +38,17 @@ system.out.println();
 system.out.println(i);
 system.out.println("-1 bottles of beer one the wall.");}
 
-system.out.println(i);
+
+system.out.println(1);
 system.out.println(" bottle of beer on the wall,"）；
-system.out.println（i）；
+system.out.println（1）；
 system.out.println（" bottle of beer.");
 system.out.println();
 system.out.println("Take one down");
 system.out.println();
 system.out.println("Pass it around");
 system.out.println();
-system.out.println(i);
+system.out.println(1);
 system.out.println("-1 bottle of beer one the wall.");
 
 system.out.println();
