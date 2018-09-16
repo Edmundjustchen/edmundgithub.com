@@ -23,6 +23,36 @@ system.out.println(c.hashCode());
 
 ## Header 2
 
+for(i=99;i>=2;i--)
+{
+system.out.println(i);
+system.out.println(" bottles of beer on the wall,"）；
+system.out.println（i）；
+system.out.println（" bottles of beer.");
+system.out.println();
+system.out.println("Take one down");
+system.out.println();
+system.out.println("Pass it around");
+system.out.println();
+system.out.println(i);
+system.out.println("-1 bottles of beer one the wall.");}
+
+system.out.println(i);
+system.out.println(" bottle of beer on the wall,"）；
+system.out.println（i）；
+system.out.println（" bottle of beer.");
+system.out.println();
+system.out.println("Take one down");
+system.out.println();
+system.out.println("Pass it around");
+system.out.println();
+system.out.println(i);
+system.out.println("-1 bottle of beer one the wall.");
+
+system.out.println();
+system.out.println("No more bottles on the wall");
+
+
 
 ### Header 3
 
